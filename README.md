@@ -1,4 +1,4 @@
-## Hello, I'm Bao 👋
+<center> <h1>Hello, I'm Bao 👋 </h1> </center> 
 - ✨ I’m currently learning Computer Science
 - 🚀 Accumulating experience
   <!--
